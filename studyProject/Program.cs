@@ -6,7 +6,7 @@ namespace studyProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! update");
+            Console.WriteLine("Hello World! update asd");
         }
     }
 }
